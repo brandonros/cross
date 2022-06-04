@@ -63,6 +63,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - #609 - Switch to Github Actions and GHCR.
 - #588 - fix ci: bump openssl version in freebsd again
 - #552 - Added CHANGELOG.md automation
+- #538 - changed default container engine to podman
 - #534 - fix image builds with update of dependencies
 - #502 - fix ci: bump openssl version in freebsd
 - #489 - Add support for more hosts and simplify/unify host support checks
